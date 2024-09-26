@@ -1,7 +1,7 @@
 # 📋 Cadastro de Pessoas
 # ListaParaWidget
 
-![image](https://github.com/user-attachments/assets/2bce7fce-36e4-4a58-80c7-797af52a7648)
+![image](https://github.com/user-attachments/assets/68137387-9ea8-428b-b99d-91f20ec7829e)
 
 # 📋 Cadastro 
 
